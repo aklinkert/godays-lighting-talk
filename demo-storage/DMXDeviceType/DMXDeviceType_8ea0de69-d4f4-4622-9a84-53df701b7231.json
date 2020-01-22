@@ -1,0 +1,1 @@
+{"id":"8ea0de69-d4f4-4622-9a84-53df701b7231","name":"Litecraft WashX21","channelCount":6,"channelsPerLED":4,"strobeEnabled":true,"strobeChannel":5,"dimmerEnabled":true,"dimmerChannel":0,"modeEnabled":false,"modeChannel":0,"moving":false,"panChannel":0,"panFineChannel":0,"tiltChannel":0,"tiltFineChannel":0,"panTiltSpeedChannel":0,"leds":[{"red":1,"green":2,"blue":3,"white":4}]}
