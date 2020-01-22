@@ -1,0 +1,1 @@
+{"waiters":{"audio":{"enabled":false,"threshold":0.7}},"transportWriters":{"artNet":{"enabled":true},"midi":{"enabled":false,"outputDeviceId":0}}}

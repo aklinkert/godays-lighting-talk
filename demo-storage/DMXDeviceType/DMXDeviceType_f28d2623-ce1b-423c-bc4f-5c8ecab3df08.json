@@ -1,0 +1,1 @@
+{"id":"f28d2623-ce1b-423c-bc4f-5c8ecab3df08","name":"Mini Moving Head Beam 11 Channel","channelCount":11,"channelsPerLED":4,"strobeEnabled":true,"strobeChannel":6,"dimmerEnabled":true,"dimmerChannel":5,"modeEnabled":false,"modeChannel":0,"moving":true,"tiltChannel":2,"panChannel":0,"leds":[{"position":0,"red":7,"green":8,"blue":9,"white":10}]}
